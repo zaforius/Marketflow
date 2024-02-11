@@ -1,3 +1,1 @@
-remote_theme: <author>/<theme>
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-merlot
